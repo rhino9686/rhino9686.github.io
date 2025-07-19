@@ -1,9 +1,9 @@
 {
-  "name": "Your Name",
+  "name": "Robert Cecil",
   "label": "Optional Label",
-  "image_path": "img/default-image.png",
+  "image_path": "img/profilepicture.jpeg",
   "contact": {
-    "email": "FirstLast@Sample.com",
+    "email": "robertbcecil@gmail.com",
     "phone": "123-456-7890",
     "location": "City, State, Country"
   },
@@ -16,7 +16,7 @@
       "svg_path": "img/globe.svg"
     },
     {
-      "label": "First Social",
+      "label": "Linkedin",
       "url": "https://sample.com",
       "svg_path": "img/linkedin.svg"
     },
